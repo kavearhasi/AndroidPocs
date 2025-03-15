@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Logins" parent="Theme.Material3.Dark.NoActionBar">
+
+    </style>
+    <style name="Theme.Logins" parent="Base.Theme.Logins" >
+        <item name="colorPrimary">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/onPrimDark</item>
+        <item name="colorPrimaryContainer">@color/primContainerDark</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimContainerDark</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/secondaryDark</item>
+        <item name="colorOnSecondary">@color/onSecondDark</item>
+        <item name="colorSecondaryContainer">@color/secondContainerDark</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondContainerDark</item>
+
+        <!-- Tertiary colors -->
+        <item name="colorTertiary">@color/tertiaryDark</item>
+        <item name="colorOnTertiary">@color/onTeriDark</item>
+        <item name="colorTertiaryContainer">@color/teriContainerDark</item>
+        <item name="colorOnTertiaryContainer">@color/onTeriContainerDark</item>
+
+        <!-- Error colors -->
+        <item name="colorError">@color/errorDark</item>
+        <item name="colorOnError">@color/onErrorDark</item>
+        <item name="colorErrorContainer">@color/errorContainerDark</item>
+        <item name="colorOnErrorContainer">@color/onErrorContainerDark</item>
+
+        <!-- Surface colors -->
+        <item name="colorSurface">@color/surfaceDark</item>
+        <item name="colorOnSurface">@color/onSurfDark</item>
+        <item name="colorSurfaceVariant">@color/surfContainerDark</item>
+        <item name="colorOnSurfaceVariant">@color/onSurfDark</item>
+        <item name="colorSurfaceContainerLow">@color/surfContainerLowDark</item>
+        <item name="colorSurfaceContainer">@color/surfContainerDark</item>
+        <item name="colorSurfaceContainerHigh">@color/SurfContainerHighDark</item>
+
+        <!-- Other attributes -->
+        <item name="colorOutline">@color/secondaryDark</item>
+        <item name="android:windowBackground">@color/surfaceDark</item>
+    </style>
+<!--    <style name="Theme.SplashScreen" parent="Theme.Material3.Dark.NoActionBar">-->
+<!--        <item name="android:windowBackground">@drawable/splash_screen</item>-->
+<!--        <item name="android:statusBarColor">@color/surfaceDark</item>-->
+<!--    </style>-->
+</resources>

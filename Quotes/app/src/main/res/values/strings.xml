@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="quotes">Quotes</string>
+    <string name="delay_msg">Sorry no quotes are there :) </string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Logins</string>
+
+    <string name="login_title">Welcome To Logins !</string>
+    <string name="slogan">Knowledge is Power</string>
+    <string name="name">Name</string>
+    <string name="password_placeholder">*******</string>
+    <string name="login">Login</string>
+</resources>

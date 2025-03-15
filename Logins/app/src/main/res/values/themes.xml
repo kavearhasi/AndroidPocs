@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Logins" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Logins" parent="Base.Theme.Logins" >
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrim</item>
+        <item name="colorPrimaryContainer">@color/primContainer</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimContainer</item>
+
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/onSecond</item>
+        <item name="colorSecondaryContainer">@color/secondContainer</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondContainer</item>
+
+        <!-- Tertiary colors -->
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorOnTertiary">@color/onTeri</item>
+        <item name="colorTertiaryContainer">@color/teriContainer</item>
+        <item name="colorOnTertiaryContainer">@color/onTeriContainer</item>
+
+        <!-- Error colors -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/onError</item>
+        <item name="colorErrorContainer">@color/errorContainer</item>
+        <item name="colorOnErrorContainer">@color/onErrorContainer</item>
+
+        <!-- Surface colors -->
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/onSurf</item>
+        <item name="colorSurfaceVariant">@color/surfContainer</item>
+        <item name="colorOnSurfaceVariant">@color/onSurf</item>
+        <item name="colorSurfaceContainerLow">@color/surfContainerLow</item>
+        <item name="colorSurfaceContainer">@color/surfContainer</item>
+        <item name="colorSurfaceContainerHigh">@color/SurfContainerHigh</item>
+
+        <!-- Other attributes -->
+        <item name="colorOutline">@color/secondary</item>
+        <item name="android:windowBackground">@color/surface</item>
+    </style>
+
+
+</resources>

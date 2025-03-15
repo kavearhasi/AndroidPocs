@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManagerOneTime</string>
+    <string name="bitcoin_rate">Bitcoin Rate</string>
+    <string name="get_current_rate">Get Current Rate</string>
+</resources>
